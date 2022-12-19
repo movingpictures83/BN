@@ -1,0 +1,2 @@
+Prefix plugins/BN/example/
+Plugin BN inputfile input.csv outputfile bn
